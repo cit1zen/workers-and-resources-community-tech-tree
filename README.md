@@ -5,7 +5,7 @@
 A community tech tree replaces the Workers & Resources vanilla tech tree
 with one that is bigger, better, and managed by the modders community.
 The tree allows modders and content creators to lock their buildings
-behind the research in a scalable and synchronized way.
+behind research in a scalable and synchronized way.
 
 The tree also adds more realistic and challenging research gameplay for
 players. The tech tree adds new research to all three kinds of universities
@@ -20,7 +20,8 @@ need to build all types of universities.
    1. by cloning repository using GIT,
    2. or downloading a [ZIP file][3].
 2. Merge `research` directory with the game's `research` directory.
-   Path to this directory is ``.
+   Path to this directory is
+   `C:\Program Files (x86)\Steam\steamapps\common\SovietRepublic\media_soviet\research`.
 3. ...
 4. Enjoy and give us some feedback.
 
@@ -37,7 +38,7 @@ There is no documentation yet.
 
 ## FAQ
 
-TODO
+There is no FAQ yet.
 
 ## Contact
 
