@@ -27,10 +27,11 @@ need to build all types of universities.
 
 ## Features
 
-* New tech tree with 14 new technologies and more enjoyable and
+* New tech tree with new technologies and more enjoyable and
   realistic progression.
 * Added purpose to medical and political universities.
 * Community driven way how to lock buildings behind the research.
+* [Documentation][4] describing how to read and update a research tree.
 
 ## Documentation
 
@@ -57,3 +58,4 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 [1]: resources/techtree.png
 [2]: https://github.com/cit1zen/workers-and-resources-community-tech-tree
 [3]: https://github.com/cit1zen/workers-and-resources-community-tech-tree/archive/master.zip
+[4]: docs/research.md
