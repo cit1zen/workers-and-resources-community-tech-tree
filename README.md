@@ -33,10 +33,6 @@ need to build all types of universities.
 * Community driven way how to lock buildings behind the research.
 * [Documentation][4] describing how to read and update a research tree.
 
-## Documentation
-
-There is no documentation yet.
-
 ## FAQ
 
 There is no FAQ yet.
@@ -49,14 +45,19 @@ For bug reports or feature requests, create an issue in the
 If you want to get in touch with the maintainers, ask some questions,
 please visit our Discord server by link https://discord.gg/GXp46hs.
 
+## Authors and acknowledgment
+
+* Basis of the ship icons have been created by [monkik][5].
+
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-* Apache 2.0 License
+* If not stated otherwise, project resources are distributed under Apache 2.0 License.
 * Technology icons ARE NOT distributed under this license.
 
 [1]: resources/techtree.png
 [2]: https://github.com/cit1zen/workers-and-resources-community-tech-tree
 [3]: https://github.com/cit1zen/workers-and-resources-community-tech-tree/archive/master.zip
 [4]: docs/research.md
+[5]: https://www.flaticon.com/authors/monkik
