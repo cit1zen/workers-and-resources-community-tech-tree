@@ -54,6 +54,7 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 * Apache 2.0 License
+* Technology icons ARE NOT distributed under this license.
 
 [1]: resources/techtree.png
 [2]: https://github.com/cit1zen/workers-and-resources-community-tech-tree

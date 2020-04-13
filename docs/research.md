@@ -113,7 +113,7 @@ types are:
 - **Designation**:  required
 - **Format**: `$COST (price)`
 
-Cost sets the required amount of human hours needed to research the
+Cost sets the required amount of human days needed to research the
 technology.
 
 ### $AVAILABLE
