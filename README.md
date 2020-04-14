@@ -35,14 +35,16 @@ need to build all types of universities.
 
 ## FAQ
 
-There is no FAQ yet.
+* **Why the new techs have no name or description?**
+   * Currently there is no way how add custom names or descriptions to
+     a research tree.
 
 ## Contact
 
 For bug reports or feature requests, create an issue in the
 [official Github repository][2].
 
-If you want to get in touch with the maintainers, ask some questions,
+If you want to get in touch with the maintainerss, ask some questions,
 please visit our Discord server by link https://discord.gg/GXp46hs.
 
 ## Authors and acknowledgment
