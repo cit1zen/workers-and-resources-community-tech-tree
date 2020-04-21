@@ -50,6 +50,8 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 ## Authors and acknowledgment
 
 * Basis of the ship icons have been created by [monkik][5].
+* Radioactive icon has been created by [freepik][6].
+* Wind energy icon has been created by [freepik][6].
 
 ## License
 
@@ -63,3 +65,4 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 [3]: https://github.com/cit1zen/workers-and-resources-community-tech-tree/archive/master.zip
 [4]: docs/research.md
 [5]: https://www.flaticon.com/authors/monkik
+[6]: https://www.flaticon.com/authors/freepik
