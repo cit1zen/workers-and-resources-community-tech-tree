@@ -29,8 +29,9 @@ need to build all types of universities.
 
 * New tech tree with new technologies and more enjoyable and
   realistic progression.
+* Tech tree that hides [modded assets][7] behind technologies.
 * Added purpose to medical and political universities.
-* Community driven way how to lock buildings behind the research.
+* Community driven way how to lock [buildings][7] behind the research.
 * [Documentation][4] describing how to read and update a research tree.
 
 ## FAQ
@@ -38,9 +39,11 @@ need to build all types of universities.
 * **Why the new techs have no name or description?**
    * Currently there is no way how add custom names or descriptions to
      a research tree.
+* **Which mods are supported by this mod?**
+   * There is a [list][7] of supported mods.s
 
-## Contact
-
+## Contacts
+s
 For bug reports or feature requests, create an issue in the
 [official Github repository][2].
 
@@ -66,3 +69,4 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 [4]: docs/research.md
 [5]: https://www.flaticon.com/authors/monkik
 [6]: https://www.flaticon.com/authors/freepik
+[7]: docs/supported_mods.md
