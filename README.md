@@ -41,9 +41,14 @@ need to build all types of universities.
      a research tree.
 * **Which mods are supported by this mod?**
    * There is a [list][7] of supported mods.s
+* **How can I add my mod to the tech tree?**
+   * Create an issue in the [official Github repository][2] to add your buildings.
+     We needs paths in format `SteamID/building_name`, and the techs that should
+     unlock your buildings.
+   * Or, you can open up a pull request that adds your buildings to the CTT.
 
 ## Contacts
-s
+
 For bug reports or feature requests, create an issue in the
 [official Github repository][2].
 
