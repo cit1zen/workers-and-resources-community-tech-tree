@@ -40,7 +40,7 @@ need to build all types of universities.
    * Currently there is no way how add custom names or descriptions to
      a research tree.
 * **Which mods are supported by this mod?**
-   * There is a [list][7] of supported mods.s
+   * There is a [list][7] of supported mods.
 * **How can I add my mod to the tech tree?**
    * Create an issue in the [official Github repository][2] to add your buildings.
      We needs paths in format `SteamID/building_name`, and the techs that should
