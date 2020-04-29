@@ -81,6 +81,7 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 
 ## Authors and acknowledgment
 
+* CTT icon was created by Nyxyx.
 * Basis of the ship icons have been created by [monkik][5].
 * Radioactive icon has been created by [freepik][6].
 * Wind energy icon has been created by [freepik][6].
@@ -91,6 +92,7 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
    * Bertrios
    * argent
    * paradoxbound
+   * Nyxyx
 
 ## License
 
