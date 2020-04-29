@@ -1,0 +1,2 @@
+COPY "C:\Program Files (x86)\Steam\steamapps\workshop\content\784150\2072854744\ctt\research" "C:\Program Files (x86)\Steam\steamapps\common\SovietRepublic\media_soviet\research"
+ECHO Community tech tree - 0.2.0 copied
