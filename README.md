@@ -16,6 +16,28 @@ need to build all types of universities.
 
 ## Installation
 
+Because the game does not support custom script modes or custom tech trees,
+some manual setup is required. Thanks to this setup, small batch script will run
+before your game launches. The script will copy the CTT tech tree to your game
+directory and will update the tech tree when the CTT recieves updates.
+If you don't want or need automatic updates, follow the [guide][2] in the main
+repository.
+
+### Steam (auto-update) installation
+
+If your game is stored somewhere else than `C:`, go to your work
+
+1. Subscribe to [CTT workshop item][8] and let it download to your PC.
+2. Go to the game page in your Steam library.
+3. Go to game properties.
+4. In **general** tab, click at the `SET LAUNCH OPTIONS`.
+5. Add this line to your launch options:
+```
+"C:\Program Files (x86)\Steam\steamapps\workshop\content\784150\2072854744\ctt\ctt-update.bat" & %command%[/code]
+```
+
+### Manual installation
+
 1. Download the repository:
    1. by cloning repository using GIT,
    2. or downloading a [ZIP file][3].
@@ -24,6 +46,11 @@ need to build all types of universities.
    `C:\Program Files (x86)\Steam\steamapps\common\SovietRepublic\media_soviet\research`.
 3. ...
 4. Enjoy and give us some feedback.
+
+### Uninstallation
+
+1. Remove ctt-update from your `SET LAUNCH OPTIONS`.
+2. Verify integrity of your game, which should replace the CTT with vanilla tech tree.
 
 ## Features
 
@@ -39,6 +66,9 @@ need to build all types of universities.
 * **Why the new techs have no name or description?**
    * Currently there is no way how add custom names or descriptions to
      a research tree.
+* **Will update reset my research?**
+   * If you used other tech tree than CTT, the update will reset the researched
+     and lock buildings again. Updates of CTT do not reset the research.
 * **Which mods are supported by this mod?**
    * There is a [list][7] of supported mods.
 * **How can I add my mod to the tech tree?**
@@ -61,6 +91,13 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 * Radioactive icon has been created by [freepik][6].
 * Wind energy icon has been created by [freepik][6].
 
+* CTT was brought to you thanks to:
+   * cit1zen
+   * ryantheskinny
+   * Bertrios
+   * argent
+   * paradoxbound
+
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -75,3 +112,4 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 [5]: https://www.flaticon.com/authors/monkik
 [6]: https://www.flaticon.com/authors/freepik
 [7]: docs/supported_mods.md
+[8]: https://steamcommunity.com/sharedfiles/filedetails/?id=2072854744
