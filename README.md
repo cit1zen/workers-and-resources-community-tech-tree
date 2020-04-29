@@ -28,7 +28,7 @@ If you don’t want, or don’t need, automatic updates, follow the guide in the
 4. In **general** tab, click at the `SET LAUNCH OPTIONS`.
 5. Add this line to your launch options:
 ```
-"C:\Program Files (x86)\Steam\steamapps\workshop\content\784150\2072854744\ctt\ctt-update.bat" & %command%[/code]
+"C:\Program Files (x86)\Steam\steamapps\workshop\content\784150\2072854744\ctt\ctt-update.bat" & %command%
 ```
 
 ### Manual installation
