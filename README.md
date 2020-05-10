@@ -12,9 +12,6 @@ of universities to your republic’s development. The tech tree adds new researc
 all three university types (Technical, Medical, Political).
 
 ![Industry](resources/industry.png)
-![Goverment](resources/goverment.png)
-![Energy](resources/energy.png)
-![Primary industries](resources/primary-industries.png)
 
 ## Installation
 
