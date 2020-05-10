@@ -11,7 +11,10 @@ The tree also adds more realistic and challenging gameplay, by expanding the con
 of universities to your republic’s development. The tech tree adds new research to
 all three university types (Technical, Medical, Political).
 
-![Community tech tree flowchart][1]
+![](resources/industry.png | width=100)
+![](resources/goverment.png | width=100)
+![](resources/energy.png | width=100)
+![](resources/primary-industries.png | width=100)
 
 ## Installation
 
