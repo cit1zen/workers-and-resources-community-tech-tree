@@ -99,14 +99,14 @@ research definition.
 ### $TYPE_*
 
 - **Designation**:  required
-- **Format**: `$TYPE_TECHNICAL | $TYPE_MEDICAL | $TYPE_POLITICAL`
+- **Format**: `$TYPE_TECHNICAL | $TYPE_MEDICAL | $TYPE_SOVIET`
 
 Research type determines which university can work on the research. The
 types are:
 
 - `$TYPE_TECHNICAL` - Technical university,
 - `$TYPE_MEDICAL` - Medical university,
-- `$TYPE_POLITICAL` - Party HQ.
+- `$TYPE_SOVIET` - Party HQ.
 
 ### $COST
 
