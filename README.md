@@ -11,7 +11,7 @@ The tree also adds more realistic and challenging gameplay, by expanding the con
 of universities to your republic’s development. The tech tree adds new research to
 all three university types (Technical, Medical, Political).
 
-![Community tech tree flowchart][1]
+![Industry](resources/industry.png)
 
 ## Installation
 
@@ -85,6 +85,8 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 * Basis of the ship icons have been created by [monkik][5].
 * Radioactive icon has been created by [freepik][6].
 * Wind energy icon has been created by [freepik][6].
+* Oil rig icon has been created by [freepik][6].
+* Solar power icon has been created by [freepik][6]. 
 
 * CTT was brought to you thanks to:
    * cit1zen
