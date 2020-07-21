@@ -23,3 +23,5 @@ Community tech tree supports these mods:
 - [Large plastics factory](https://steamcommunity.com/sharedfiles/filedetails/?id=2067039517&searchtext=)
 - [Huge chemical factory](https://steamcommunity.com/sharedfiles/filedetails/?id=1901898071&searchtext=)
 - [Large chemical factory](https://steamcommunity.com/sharedfiles/filedetails/?id=1999045576)
+- [Automatic bread factory](https://steamcommunity.com/sharedfiles/filedetails/?id=2131565662)
+- [Vehicle Production Line (Small)](https://steamcommunity.com/sharedfiles/filedetails/?id=2166923643)

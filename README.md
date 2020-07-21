@@ -95,6 +95,7 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
    * argent
    * paradoxbound
    * Nyxyx
+   * MTandi
 
 ## License
 
