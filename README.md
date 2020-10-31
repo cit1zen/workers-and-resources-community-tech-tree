@@ -27,9 +27,15 @@ If you don’t want, or don’t need, automatic updates, follow the guide in the
 3. Go to game properties.
 4. In **general** tab, click at the `SET LAUNCH OPTIONS`.
 5. Add this line to your launch options:
-```
-"C:\Program Files (x86)\Steam\steamapps\workshop\content\784150\2072854744\ctt\ctt-update.bat" & %command%
-```
+
+   Windows:
+   ```
+   "C:\Program Files (x86)\Steam\steamapps\workshop\content\784150\2072854744\ctt\ctt-update.bat" & %command%
+   ```
+   Linux/SteamOS:
+   ```
+   /home/$USER/.steam/steam/steamapps/workshop/content/784150/2072854744/ctt/ctt-update.sh & %command%
+   ```
 
 ### Manual installation
 
@@ -81,12 +87,7 @@ please visit our Discord server by link https://discord.gg/GXp46hs.
 
 ## Authors and acknowledgment
 
-* CTT icon was created by Nyxyx.
-* Basis of the ship icons have been created by [monkik][5].
-* Radioactive icon has been created by [freepik][6].
-* Wind energy icon has been created by [freepik][6].
-* Oil rig icon has been created by [freepik][6].
-* Solar power icon has been created by [freepik][6]. 
+* CTT icon and other icons were created by Nyxyx.
 
 * CTT was brought to you thanks to:
    * cit1zen
